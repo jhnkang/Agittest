@@ -1,0 +1,5 @@
+git commit -m "커밋메세지"
+git push
+git pull
+git config --global user.name "jhnkang"
+git config --global user.email "jhnkang76@gmail.com"
